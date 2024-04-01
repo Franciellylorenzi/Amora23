@@ -10,7 +10,7 @@
 </head>
 <body>
    <header>
-    <<img src="aluraStart logo.png" alt="logo da alura start">
+    <<img src="https://cdn.acritica.net/img/pc/450/300/dn_arquivo/2023/03/unnamed_2.jpg"alt="capivara">
     <ul>
         <li>Escola</li>
         <li>Estudante</li>
